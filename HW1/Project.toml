@@ -1,0 +1,7 @@
+name = "Domaca01"
+uuid = "38bd27a2-1b3b-4a11-9de0-622ea3ae0808"
+authors = ["student "]
+version = "0.1.0"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
